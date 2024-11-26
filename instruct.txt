@@ -1,4 +1,0 @@
-team member 1
- - add frontend files
- - stage , commit the files
- - push for the repo
